@@ -1,0 +1,26 @@
+.new-course__controls {
+  display:flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.new-course__control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.new-course__control input {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+}
+
+.new-course__actions {
+  text-align: right;
+}

@@ -1,0 +1,38 @@
+/* Add this CSS to your component's CSS file, e.g., CourseDetail.css */
+
+.course-detail {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 10px;
+}
+
+.course-description {
+  margin-top: 5px;
+  font-size: 16px;
+  color: #555;
+}
+
+.course-fees {
+  margin-top: 5px;
+  font-size: 18px;
+  color: #007BFF;
+}
+
+.course-date {
+  margin-top: 5px;
+  font-size: 16px;
+  color: #777;
+}
+
+/* Add more styles as needed */
+
